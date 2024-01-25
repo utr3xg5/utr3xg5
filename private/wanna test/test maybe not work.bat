@@ -1,0 +1,1 @@
+"C:\Users\1201admy\AppData\Local\Programs\Opera GX\launcher.exe"
