@@ -1,1 +1,1 @@
-"C:\Users\1201admy\AppData\Local\Programs\Opera GX\launcher.exe"
+"C:\Users\User\AppData\Local\Programs\Opera GX\launcher.exe"
